@@ -22,7 +22,7 @@
 
    * Repository -
 
-     it Will receive request from service and it will communicate with the Database.
+     Using This We Will receive request from service and it will communicate with the Database.
 
    * DataBase Design -
 
